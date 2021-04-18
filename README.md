@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rohith Gorthi
 - 👀 I’m interested in Data Engineering, Parallel Distributed Computing systems, Python, Big Data , Spark & Serverless Big Data platforms.
 - 🌱 I’m currently learning Data Engineering.
-- 💞️ I’m looking to collaborate on Big data Challenges
+- 💞️ I’m looking to collaborate on Big Data challenges
 - 📫 How to reach me rohith.amaze@gmail.com
 
 <!---
